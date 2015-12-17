@@ -2,7 +2,23 @@ cli_tools
 =========
 
 There are some simple tasks I do very often but for which there is no command
-line tool yet available so I just create one and add it here.
+line tool yet available so I just create one and add it here. These tools are
+designed for **OS X**.
+
+
+**Depends on:**
+
+  - Xcode Command Line Tools `xcode-select --install`
+  - [brew]
+
+
+**Installation**
+
+Just clone this repo and add it to your `PATH`
+
+    $ cd
+    $ git clone https://github.com/fredym/cli_tools.git
+    $ echo 'PATH="$HOME/cli_tools:$PATH"' >> ~/.bash_profile
 
 
 
@@ -39,3 +55,4 @@ some writing.
 
 
 [lynx]: http://lynx.invisible-island.net/
+[brew]: http://brew.sh/
