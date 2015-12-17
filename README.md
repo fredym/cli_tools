@@ -26,9 +26,9 @@ Just clone this repo and add it to your `PATH`
 drae
 ----
 
-Searches the term specified in the first argument in the _Diccionario de la Real
-Academia Española_. As an Spanish native speaker this comes in handy when doing
-some writing.
+Searches the term specified in the first argument in the [_Diccionario de la
+lengua española_][dle]. As an Spanish native speaker this comes in handy when
+doing some writing.
 
 **Depends on:** [lynx]
 
@@ -56,3 +56,4 @@ some writing.
 
 [lynx]: http://lynx.invisible-island.net/
 [brew]: http://brew.sh/
+[dle]: http://dle.rae.es/
