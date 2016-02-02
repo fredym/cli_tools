@@ -23,4 +23,6 @@ echo '' # line break
 read -rs -p 'K: ' k
 echo '' # line break
 
+calc $m "A"
+echo ""
 calc $m $k | pbcopy
